@@ -1,9 +1,9 @@
 # spring-mvc-rest
 
-This project uses *Spring latest version 4.0.0.RELEASE* and utilize *Spring Jackson JSON* integration to send JSON response in the rest call response. This project is developed in *Spring STS IDE* for creating *Spring MVC* skeleton code easily and then extended to implement *Restful architecture*.
+This project uses **Spring latest version 4.0.0.RELEASE** and utilize **Spring Jackson JSON** integration to send JSON response in the rest call response. This project is developed in **Spring STS IDE** for creating **Spring MVC** skeleton code easily and then extended to implement **Restful architecture**.
 
 ## Porject Structure
-<img src="images/1.png" width="30%">
+<img src="images/1.png" width="40%">
 
 ## Spring REST Configuration XML file
 The `pom.xml` file looks like below
